@@ -1,18 +1,19 @@
 # {#overview .step data-scale=10}
 
-# "Make your customer the hero of you story!" {.step .title}
+# "Make your customer the hero of you story!" {.step .slide .title data-x=-1000}
 
 Content Marketing and Content Strategy
 
 Heinz Wittenbrink
-@heinz
+\@heinz
 
-# {.step data-x=1000}
+# {.step .slide}
 
 "Every Company is a Media Company":
-Why brands become publishers
 
-# {.step .slide data-x=1000 daty-y=1000}
+Why brands become publishers 
+
+# {.step .slide data-x=1000 daty-y=1000 data-z=-2000}
 
 We live in a society in which we are more and more digitally connected to each other. In this society the public sphere is no longer produced by the mass media. More and more economic processes are happening publicly and in a networked way. Whoever is participating in society is producing content about themselves and about everything they are doing and is perceived via this content. Content strategy is nothing more than a strategic approach to this content. Content marketing means to use this content in a targeted way for marketing purposes. Brands are perceived via content because they are acting today in a networked way, publicly and in realtime. 
 
@@ -28,64 +29,66 @@ We live in a society in which we are more and more digitally connected to each o
 <a title="By Maurizio Pesce from Milan, Italia [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAndroid_Wear_Smartwatch-_LG_G_Watch_and_Samsung_Gear_Live_(15051778575).jpg"><img width="512" alt="Android Wear Smartwatch- LG G Watch and Samsung Gear Live (15051778575)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Android_Wear_Smartwatch-_LG_G_Watch_and_Samsung_Gear_Live_%2815051778575%29.jpg/512px-Android_Wear_Smartwatch-_LG_G_Watch_and_Samsung_Gear_Live_%2815051778575%29.jpg"/></a>
 
 
-# {.step data-x=1000 data-y=4000} 
+# {.step .slide data-x=1000 data-y=4000} 
 
 ![vccc_wim_rampen_v92-001.jpg (1024×768)](https://contactcenterintelligence.files.wordpress.com/2013/03/vccc_wim_rampen_v92-001.jpg "vccc_wim_rampen_v92-001.jpg (1024×768)"){ width=80%}
 
 
-# New media - new audiences {.step data-y=1000} 
+# New media - new audiences {.step .slide .title data-x=2000 data-y=1000} 
 
 
-# {.step data-y=1000 data-x=2000} 
+# {.step .slide data-y=3000 data-x=2000} 
 It is easier to publish than not to publish
 
-# {.step data-y=1000 data-x=3000} 
+# {.step .slide data-y=4000 data-x=2000} 
 Customers inform themselves online before all
 
-# {.step data-y=1000 data-x=4000} 
+# {.step .slide data-y=5000 data-x=2000} 
 Search engines promote quality content
 
-# {.step data-y=1000 data-x=5000} 
+# {.step .slide data-y=6000 data-x=2000} 
 In social media good content is a conditon for success
 
-# {.step data-y=1000 data-x=6000} 
+# {.step .slide data-y=7000 data-x=2000} 
 Content everywhere: from digital to mobile revolution
 
-# {.step data-y=1000 data-x=7000} 
+# {.step .slide data-y=8000 data-x=2000} 
 Classical ads and banners have lost traction
 
-# {.step data-y=1000 data-x=8000} 
+# {.step .slide data-y=9000 data-x=2000} 
 Scarcity of attention has replaced scarcity of information
 
-# {.step data-y=1000 data-x=9000} 
+# {.step .slide data-y=10000 data-x=2000} 
 Filters are replacing gatekeepers and mediators
 
-# {.step data-y=1000 data-x=10000} 
+# {.step .slide data-y=1100 data-x=2000} 
 The business models of publishing houses and media companies are obsolete
 
-# {.step data-y=1000 data-x=11000} 
+# {.step .slide data-y=12000 data-x=2000} 
 > The era of one-way, single-threaded, brand-directed mass communications is officially over. ... The only way to reach your audience in today’s information-drenched, content-saturated world is through Epic Content Marketing that emotionally connects with the people you are trying to reach." (@pulizzi2013a, loc. 96-104)
 
-
-# {.step data-y=1000 data-x=12000} 
+# {.step .slide data-y=1000 data-x=3000} 
 [The Role of Content in the Consumer Decision Making Process](https://www.inpwrd.com/the_role_of_content_inpowered.pdf "The Role of Content in the Consumer Decision Making Process")
 
-# {.step data-y=1000 data-x=13000} 
+# {.step .slide data-y=2000 data-x=3000} 
 > Content marketing is owning media as opposed to renting it  (@pulizzi2013a, loc. 244)
 
 
-# Changing relations between brands and customers
+# Changing relations between brands and customers {.step .slide .data data-x=3000 data-y=3000}
 
-Costomers regard brands as networked problem solvers
+* Customers regard brands as networked problem solvers
 
-Customers and brands are connected 24/7 in realtime
+* Customers and brands are connected 24/7 in realtime
 
-The mass of disposable data is growing exponentially
+* The mass of disposable data is growing exponentially
 
 
-# Owned media as alternative to paid media
+# Owned media as alternative to paid media  {.step .slide .data data-x=3000 data-y=4000}
 
 "Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience — and, ultimately, to drive profitable customer action." http://contentmarketinginstitute.com/what-is-content-marketing/
+
+
+#  {.step .slide .data-x=3000 data-y=5000}
 
 Content-Marketing is about content published by brands which 
 
@@ -94,6 +97,8 @@ Content-Marketing is about content published by brands which
 
 Content Marketing is a task for content strategists. It is closely related to other purposes of content (e.g PR, Service).
 
+
+#  {.step .slide .data}
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/toprankblog/7942982406" title="Joe Pulizzi - Content Marketing World"><img src="https://farm9.staticflickr.com/8315/7942982406_99abbd95b7_c.jpg" width="800" height="531" alt="Joe Pulizzi - Content Marketing World"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Illustration: TopRank Marketing
@@ -101,21 +106,22 @@ Illustration: TopRank Marketing
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
 
-
+#  {.step .slide .data}
 ![Epic Content Marketing: How to Tell a Different Story, Break through the Clutter, and Win More Customers by Marketing Less von Joe Pulizzi - gebundene Ausgabe - 978-0-07-181989-3 | Thalia](https://media.buch.de/img-adb/34962343-00-00.jpg "Epic Content Marketing: How to Tell a Different Story, Break through the Clutter, and Win More Customers by Marketing Less von Joe Pulizzi - gebundene Ausgabe - 978-0-07-181989-3 | Thalia")
 
-
+#  {.step .slide .data}
 ![Think Content! Das Standardwerk von Miriam Löffler | Rheinwerk](https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783836220064_267.png "Think Content! Das Standardwerk von Miriam Löffler | Rheinwerk")
 
-
+#  {.step .slide .data}
 ![Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia](https://media.buch.de/img-adb/40367859-00-00.jpg "Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia")
 
-
+#  {.step .slide .data}
 <p><strong>Please include attribution to contentmarketinginstitute.com with this graphic.</strong></p><br />
 <p><a href=’http://contentmarketinginstitute.com/2016/07/history-content-marketing/’><img src=’http://contentmarketinginstitute.com/wp-content/uploads/2016/06/History-of-Content-Marketing-Infographic-2016_FINAL.png’ alt=’History of Content Marketing 2016′ width=’792px’ border=’0′ /></a></p><br />
 <p>
 
-Things that can be improved by Content Marketing:
+#  Things that can be improved by Content Marketing {.step .slide .data}
+
 
 image of the company
 brand perception/branding
@@ -136,8 +142,7 @@ bounce rate
 chance to get organic, cost-free traffic (Löffler, S. 220)
 
 
-
-Facts: Content Marketing B2C
+# Facts: Content Marketing B2C  {.step .slide .data} 
 
 [CONTENT CONTENT
 MARKETING MARKETING
@@ -147,7 +152,7 @@ and Trends—North America](http://contentmarketinginstitute.com/wp-content/uplo
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rIhwvF5n8Kg80m" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CMI/b2b-content-marketing-2017-benchmarks-budgets-trends-north-america" title="B2B Content Marketing 2017 - Benchmarks, Budgets &amp; Trends - North America" target="_blank">B2B Content Marketing 2017 - Benchmarks, Budgets &amp; Trends - North America</a> </strong> from <strong><a href="https://www.slideshare.net/CMI" target="_blank">Content Marketing Institute</a></strong> </div>
 
 
-Facts: Content Marketing B2B
+# Facts: Content Marketing B2B  {.step .slide .data} 
 
 [B2B
 CONTENT CONTENT
@@ -157,7 +162,7 @@ and Trends—North America](http://contentmarketinginstitute.com/wp-content/uplo
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rIhwvF5n8Kg80m" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CMI/b2b-content-marketing-2017-benchmarks-budgets-trends-north-america" title="B2B Content Marketing 2017 - Benchmarks, Budgets &amp; Trends - North America" target="_blank">B2B Content Marketing 2017 - Benchmarks, Budgets &amp; Trends - North America</a> </strong> from <strong><a href="https://www.slideshare.net/CMI" target="_blank">Content Marketing Institute</a></strong> </div>
 
-Thesen:
+# Thesen:  {.step .slide .data data-z=1000} 
 1. Brands today have different and by far more touch points with customers than they used to have. On the other site they are losing the traditional media channels controlled by their budget in a quasi monopolistic way.
 2. Control of the digital touchpoints has been transferred to the customers. 
 3. The value propositions of brands are getting more complex and more networked. Brands are perceived aus parts of a media world. The value proposition of a brand has become more complex and more networked. 
