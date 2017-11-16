@@ -145,10 +145,9 @@ Content Marketing is a task for content strategists. It is closely related to ot
 
 <!--Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia -->
 
-#  {.step data-x=3000  data-y=10000 data-scale=0.1 data-rotate-x=90 }
+#  {.step data-x=3000  data-y=10000 data-scale=2 data-rotate-y=90 }
 
-![The history of content marketing](http://contentmarketinginstitute.com/wp-content/uploads/2016/06/History-of-Content-Marketing-Infographic-2016_FINAL.png)
-
+![The history of content marketing](http://contentmarketinginstitute.com/wp-content/uploads/2016/06/History-of-Content-Marketing-Infographic-2016_FINAL.png){ width=200px }
 
 
 
@@ -218,3 +217,5 @@ Your customers don’t care about you, your products, or your services. They car
 # Thesen:  {.step .slide  data-x=6000 data-y=-1000 data-z=-5000}
 
 5. Only radically user centered content marketing provides the chance to reach customers in a manner not limited to isolated contacts and interactions.
+
+# Thesen:  {.step .slide  data-x=7000 }
