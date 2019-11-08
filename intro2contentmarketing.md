@@ -1,7 +1,7 @@
 ---
 title: Content Marketing and Content Strategy
 author: Heinz Wittenbrink (\@heinz)
-date: 2018-10-09
+date: 2019-11-09
 bibliography: introtocontentmarketing.bib
 csl: apa.csl
 link-citations: true
