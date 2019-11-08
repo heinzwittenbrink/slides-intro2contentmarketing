@@ -13,7 +13,7 @@ link-citations: true
 
 ##
 
-> Content Marketing ist ein ungenauer Begriff. Was ist die/eure Definition wozu wir unsere Erfahrungen beschreiben sollen? (Quote Cos17)
+> Content marketing is an imprecise term. What is the/your definition why we should describe our experiences? (Quote Cos17)
 
 
 
@@ -27,13 +27,18 @@ Content strategy is nothing more than a strategic approach to this content. Cont
 
 ##
 
-> Anfänglich hatte ich mit der Zuordnung des Content Marketings Schwierigkeiten, mittlerweile fühlt sich diese für mich richtig an und ich mache eine weitere Unterscheidung und zwar zwischen Marketing & Content Marketing.
-Content Marketing hat für mich wenig mit Marketing zu tun, es ist eine begriffliche Paralellität. Ich finde "Content Advertising" wäre bspw. besser geeignet. Marketing definiere ich als "marktorientierte Unterenhemensführung." (Quote COS17)
+> In the beginning I had difficulties with the assignment of content marketing, meanwhile it feels right for me and I make a further distinction between marketing & content marketing.
+(Quote COS17)
 
 ##
 
-> Mir war Content Marketing auf jeden Fall vor Content Strategie ein Begriff - das liegt vermutlich daran, dass ich aus der PR komme und Content Marketing der PR meiner Meinung nach in den letzten Jahren einige Teilbereiche strittig gemacht hat. (Quote COS17)
+> For me content marketing has little to do with marketing, it is a conceptual parallelism. I think "Content Advertising" would be better suited. I define marketing as "market-oriented corporate management". (Quote COS17)
 
+##
+
+> Content marketing was a concept to me in any case before content strategy - that is probably because I come from the PR and in the last years content marketing has successfully disputed more and more PR territories. (Quote COS17)
+
+# New media - new audiences
 
 
 ## {data-background="https://upload.wikimedia.org/wikipedia/commons/b/ba/Centralised-decentralised-distributed.png" data-background-size="contain"}
@@ -53,12 +58,6 @@ Content Marketing hat für mich wenig mit Marketing zu tun, es ist eine begriffl
 
 
 ## {data-background="https://contactcenterintelligence.files.wordpress.com/2013/03/vccc_wim_rampen_v92-001.jpg"  data-background-size="contain"}
-
-
-
-
-# New media - new audiences
-
 
 ##
 
@@ -94,7 +93,7 @@ Filters are replacing gatekeepers and mediators
 
 ##
 
-The business models of publishing houses and media companies are obsolete
+Business models of publishing houses and media companies have become obsolete
 
 ##
 
@@ -110,7 +109,7 @@ The business models of publishing houses and media companies are obsolete
 > Content marketing is owning media as opposed to renting it  (@pulizzi2013a, loc. 244)
 
 
-## Changing relations between brands and customers
+# Changing relations between brands and customers
 
 ##
 
@@ -211,19 +210,14 @@ comments)
 
 
 
-# Facts: Content Marketing B2C
+# Facts: Content Marketing
 
 ##
 
-[CONTENT MARKETING MARKETING 2018 Benchmarks, Budgets, and Trends—North America](https://contentmarketinginstitute.com/wp-content/uploads/2017/12/2018_B2C_Research_Final.pdf)
+[CONTENT MARKETING MARKETING B2C 2018 Benchmarks, Budgets, and Trends—North America](https://contentmarketinginstitute.com/wp-content/uploads/2017/12/2018_B2C_Research_Final.pdf)
 
 
-##
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/rIhwvF5n8Kg80m" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CMI/b2b-content-marketing-2017-benchmarks-budgets-trends-north-america" title="B2B Content Marketing 2017 - Benchmarks, Budgets &amp; Trends - North America" target="_blank">B2B Content Marketing 2017 - Benchmarks, Budgets &amp; Trends - North America</a> </strong> from <strong><a href="https://www.slideshare.net/CMI" target="_blank">Content Marketing Institute</a></strong> </div>
-
-
-# Facts: Content Marketing B2B
 
 ##
 
@@ -231,7 +225,7 @@ comments)
 
 
 
-# Thesen
+# Theses
 
 ##
 
@@ -243,7 +237,7 @@ comments)
 
 ##
 
-3. The value propositions of brands are getting more complex and more networked. Brands are perceived aus parts of a media world. The value proposition of a brand has become more complex and more networked.
+3. The value propositions of brands are getting more complex and more networked. Brands are perceived as parts of a media world.
 
 ##
 
