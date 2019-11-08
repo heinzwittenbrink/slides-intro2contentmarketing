@@ -335,7 +335,6 @@ The mass of disposable data is growing exponentially
 
 (Adapted from: G. Grunert)
 
-
 ## Decision
 
 - He compares the different information to consolidated solution offers and makes the purchase decision.
