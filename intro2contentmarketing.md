@@ -1,5 +1,5 @@
 ---
-title: Content Marketing and Content Strategy
+title: \"Make the Customer the Center of Your Story\"
 author: Heinz Wittenbrink (\@heinz)
 date: 2019-11-09
 bibliography: introtocontentmarketing.bib
@@ -9,14 +9,42 @@ link-citations: true
 
 # Intro
 
+## Goals
+
+- Orientation about the industry
+- Perception of content marketing in the general public and in the marketing industry
+- Agencies, players, awards etc.
+- Literature and other sources of information
+
+##
+
+- Reflection of the role of content marketers
+- Content marketing and content strategy
+- Content marketing and sustainability
+
+## Follow-ups
+
+- 2nd presence week
+- Berlin excursion
+- Feasability study and master thesis
+
+## Groups to be formed
+
+- C3 (and comparable agencies)
+- Crispy Content / Methodic content marketing
+- Facebook: Content marketing, advertising and the public discourse
+- Mozilla: Content marketing for non profits
+- Digitale Gesellschaft/re:publica: Content marketing and privacy issues
+
+
 ## Agenda
 
-- 9:00-9:30 Intro, formation of groups
+- 9:00-9:30 Intro
 - 9:30-10:30 Presentation
 - 10:45-11:45 1. Group session: Best practices, questions
 - 11:45-12:30 Sources of information
-- 13:30-14:30: Content marketing and contents strategy: Content efficiency and content standards
-- 14:30 - 15.30: 2. group session: tasks and 1st steps for the preparation of the excursion to Berlin
+- 13:30-14:30 Content marketing and content strategy
+- 14:30-15.30 2. group session: Preparation of next steps
 - 15:45-17:00 Content marketing und planetary boundaries
 
 
@@ -25,30 +53,35 @@ link-citations: true
 
 ##
 
-> Content marketing is an imprecise term. What is the/your definition why we should describe our experiences? (Quote Cos17)
+> "Content marketing is an imprecise term. What is the/your definition why we should describe our experiences?"" (Quote Cos17)
 
 
 
 ##
 
-We live in a society in which we are more and more digitally connected to each other. In this society the public sphere is no longer produced by the mass media. More and more economic processes are happening publicly and in a networked way. Whoever is participating in society is producing content about themselves and about everything they are doing and is perceived via this content.
+- We are more and more digitally connected to each other.
+- The public sphere is no longer produced by the mass media.
+- Many economic processes are happening publicly and in a networked way.
+- Whoever is participating in society is producing content about themselves and about everything they are doing and are perceived via this content.
 
 ##
 
-Content strategy is nothing more than a strategic approach to this content. Content marketing means to use this content in a targeted way for marketing purposes. Brands are perceived via content because they are acting today in a networked way, publicly and in realtime.
+- Content strategy is a strategic approach to this content.
+- Content marketing means to use this content in a targeted way for marketing purposes.
+- Brands are perceived via content because they are acting in a networked way, publicly and in realtime.
 
 ##
 
-> In the beginning I had difficulties with the assignment of content marketing, meanwhile it feels right for me and I make a further distinction between marketing & content marketing.
+> "In the beginning I had difficulties to classify content marketing, meanwhile it feels right for me and I make a further distinction between marketing & content marketing.""
 (Quote COS17)
 
 ##
 
-> For me content marketing has little to do with marketing, it is a conceptual parallelism. I think "Content Advertising" would be better suited. I define marketing as "market-oriented corporate management". (Quote COS17)
+> 'For me content marketing has little to do with marketing, it is a conceptual parallelism. I think "Content Advertising" would be better suited. I define marketing as "market-oriented corporate management".'' (Quote COS17)
 
 ##
 
-> Content marketing was a concept to me in any case before content strategy - that is probably because I come from the PR and in the last years content marketing has successfully disputed more and more PR territories. (Quote COS17)
+> "Content marketing was well knowen to me in any case before content strategy - that is probably because I come from the PR industry and throughout the last years content marketing has successfully disputed more and more PR territories." (Quote COS17)
 
 # New media - new audiences
 
@@ -60,12 +93,11 @@ Content strategy is nothing more than a strategic approach to this content. Cont
 
 
 
-## {data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Android_Wear_Smartwatch-_LG_G_Watch_and_Samsung_Gear_Live_%2815051778575%29.jpg/512px-Android_Wear_Smartwatch-_LG_G_Watch_and_Samsung_Gear_Live_%2815051778575%29.jpg"  data-background-size="contain"}
+## {data-background="pics/android_gear.jpg"  data-background-size="contain"}
 
 
 <p class="rights">
 <a title="By Maurizio Pesce from Milan, Italia [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAndroid_Wear_Smartwatch-_LG_G_Watch_and_Samsung_Gear_Live_(15051778575).jpg"></a>
-
 </p>
 
 
@@ -73,39 +105,88 @@ Content strategy is nothing more than a strategic approach to this content. Cont
 
 ##
 
+![](pics/mediachartprocess.png)
+
 It is easier to publish than not to publish
 
+<p class="rights">
+Jeff Jarvis, <https://buzzmachine.com/2009/06/07/processjournalism/>
+</p>
+
 ##
+
+![](pics/ibm_buyers_journey.jpg){width=70%}
 
 Customers inform themselves online before all
 
+<p class="rights">
+IBM Corporation https://www.flickr.com/photos/ibm_media/17368229178
+</p>
+
 ##
+
+![](pics/Search-Quality-Raters-Guidelines-1.png)
 
 Search engines promote quality content
 
 ##
 
+![](pics/page-quality.jpg){width=60%}
+
 In social media good content is a conditon for success
 
+<p class="rights">
+Quelle: <https://allfacebook.de/pages/neues-page-quality-tab-auf-allen-facebook-seiten-fuer-euch-hoffentlich-irrelevant>
+</p>
+
 ##
+![](pics/heroes.gif){width=70%}
 
 Content everywhere: from digital to mobile revolution
 
+<p class="rights">
+Quelle: Dan Taylor-Watt <https://www.flickr.com/photos/dantaylor/456525358>
+</p>
+
 ##
+![](pics/google-ads-average-ctr-industry-benchmarks.png){width=50%}
 
 Classical ads and banners have lost traction
 
+<p class="rights">
+Quelle: Average display advertising clickthrough rates <https://www.smartinsights.com/internet-advertising/internet-advertising-analytics/display-advertising-clickthrough-rates/>
+</p>
+
+
 ##
 
+![](pics/leonhard_scarcity.png){width=70%}
 Scarcity of attention has replaced scarcity of information
 
+<p class="rights">
+Quelle: Futurist Gerd Leonhard at MLove 2013: key slides on the future of media <https://www.flickr.com/photos/gleonhard/9112922607>
+</p>
+
 ##
+
+![](pics/gate_keeping.jpg)
 
 Filters are replacing gatekeepers and mediators
 
+<p class="rights"><https://www.reddit.com/r/gatekeeping/comments/9pytqo/gatekeepers_be_crazy_can_i_get_an_amen/>
+</p>
+
+
 ##
 
+![](pics/Business_model_of_a_book_publishing_house.jpg){width=80%}
+
 Business models of publishing houses and media companies have become obsolete
+
+<p class="rights">
+Bernd W. Wirtz [CC BY 2.0 de](https://creativecommons.org/licenses/by/2.0/de/deed.en)
+</p>
+
 
 ##
 
