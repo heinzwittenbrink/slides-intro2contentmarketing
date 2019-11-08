@@ -23,7 +23,6 @@ link-citations: true
 # "Every Company is a Media Company": Why brands become publishers
 
 
-
 ##
 
 > Content marketing is an imprecise term. What is the/your definition why we should describe our experiences? (Quote Cos17)
