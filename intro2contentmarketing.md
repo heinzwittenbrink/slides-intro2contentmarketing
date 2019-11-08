@@ -81,7 +81,7 @@ link-citations: true
 
 ##
 
-> "Content marketing was well knowen to me in any case before content strategy - that is probably because I come from the PR industry and throughout the last years content marketing has successfully disputed more and more PR territories." (Quote COS17)
+> "Content marketing was well known to me in any case before content strategy - that is probably because I come from the PR industry and throughout the last years content marketing has successfully disputed more and more PR territories." (Quote COS17)
 
 # New media - new audiences
 
@@ -196,9 +196,6 @@ Bernd W. Wirtz [CC BY 2.0 de](https://creativecommons.org/licenses/by/2.0/de/dee
 Joe Pulizzi (@pulizzi2013a, loc. 96-104)
 
 
-##
-
-[The Role of Content in the Consumer Decision Making Process](https://www.inpwrd.com/the_role_of_content_inpowered.pdf "The Role of Content in the Consumer Decision Making Process")
 
 ##
 
@@ -296,7 +293,7 @@ The mass of disposable data is growing exponentially
 
 ## Personalisation
 
-> "As the individual user is at the centre of content marketing, the personalisation of the content is decisive for the success of the measure.""
+> "As the individual user is at the centre of content marketing, the personalisation of the content is decisive for the success of the measure."
  (G. Grunert)
 
 ## Role of the editorial staff
@@ -348,7 +345,7 @@ The mass of disposable data is growing exponentially
 
 ## Customer journey and conversion funnel
 
-> "The Customer Journey and the Conversion Funnel are two perspectives on the same thing, the process of winning customers. The concept of the Customer Journey does this by describing current conditions, e.g. where the user is in which phase and how these phases relate to each other. It is a passive, descriptive view in our opinion.""
+> "The Customer Journey and the Conversion Funnel are two perspectives on the same thing, the process of winning customers. The concept of the Customer Journey does this by describing current conditions, e.g. where the user is in which phase and how these phases relate to each other. It is a passive, descriptive view in our opinion."
 
 (G. Grunert)
 
