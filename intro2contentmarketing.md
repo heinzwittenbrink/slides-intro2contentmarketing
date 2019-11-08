@@ -7,6 +7,19 @@ csl: apa.csl
 link-citations: true
 ---
 
+# Intro
+
+## Agenda
+
+9:00-9:30 Intro, formation of groups
+9:30-10:30 Presentation
+10:45-11:45 1. Group session: Best practices, questions
+11:45-12:30 Sources of information
+13:30-14:30: Content marketing and contents strategy: Content efficiency and content standards
+14:30 - 15.30: 2. group session: tasks and 1st steps for the preparation of the excursion to Berlin
+15:45-17:00 Content marketing und planetary boundaries
+
+
 # "Every Company is a Media Company": Why brands become publishers
 
 
