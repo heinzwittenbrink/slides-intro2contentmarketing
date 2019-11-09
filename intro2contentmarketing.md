@@ -451,7 +451,7 @@ The mass of disposable data is growing exponentially
 
 ##
 
-<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Content marketing says: &quot;Brainstorm what content your audience wants, then distribute it wherever they are.&quot;<br><br>Content strategy says: &quot;Your audience could care less about your content until they need it. Better talk to them and figure out when, what, and where that is.&quot;</p>&mdash; Kristina Halvorson (@halvorson) <a href="https://twitter.com/halvorson/status/1093215902164766720?ref_src=twsrc%5Etfw">6. Februar 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Content marketing says: &quot;Brainstorm what content your audience wants, then distribute it wherever they are.&quot;<br><br>Content strategy says: &quot;Your audience could care less about your content until they need it. Better talk to them and figure out when, what, and where that is.&quot;</p>&mdash; Kristina Halvorson (\@halvorson) <a href="https://twitter.com/halvorson/status/1093215902164766720?ref_src=twsrc%5Etfw">6. Februar 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##
