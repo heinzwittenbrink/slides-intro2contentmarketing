@@ -42,9 +42,9 @@ link-citations: true
 - 9:00-9:30 Intro
 - 9:30-10:30 Presentation
 - 10:45-11:45 1. Group session: Best practices, questions
-- 11:45-12:30 Sources of information
+- 11:45-12:30 Group presentations, Sources of information
 - 13:30-14:30 Content marketing and content strategy
-- 14:30-15.30 2. group session: Preparation of next steps
+- 14:30-15.30 2. group session: Preparation of next steps, plenary session
 - 15:45-17:00 Content marketing und planetary boundaries
 
 
@@ -257,6 +257,8 @@ The mass of disposable data is growing exponentially
 
 ## {data-background="https://media.buch.de/img-adb/34962343-00-00.jpg"  data-background-size="contain"}
 
+@pulizzi2013a
+
 <!--
 
 ![](https://media.buch.de/img-adb/34962343-00-00.jpg "Epic Content Marketing: How to Tell a Different Story, Break through the Clutter, and Win More Customers by Marketing Less von Joe Pulizzi - gebundene Ausgabe - 978-0-07-181989-3 | Thalia") -->
@@ -265,15 +267,15 @@ The mass of disposable data is growing exponentially
 
 ##
 
-![Think Content! Das Standardwerk von Miriam Löffler und Irene Michl](pics/think_content_2.jpg "Think Content! Das Standardwerk von Miriam Löffler und Irene Michl | Rheinwerk"){width=60%}
+![Think Content! Das Standardwerk von Miriam Löffler und Irene Michl](pics/think_content_2.jpg "Think Content! Das Standardwerk von Miriam Löffler und Irene Michl | Rheinwerk"){width=60%} @loefflerThinkContentStandardwerk2019
 
 ##
 
-![Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia](https://media.buch.de/img-adb/40367859-00-00.jpg "Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia")
+![Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia](https://media.buch.de/img-adb/40367859-00-00.jpg "Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia") @eckContentRevolutionImUnternehmen2014
 
 ##
 
-![Gerrit Grunert: Methodisches Content Marketing](pics/grunert_methodisches_content_marketing.png){width=60%}
+![Gerrit Grunert: Methodisches Content Marketing](pics/grunert_methodisches_content_marketing.png){width=60%} @grunertMethodischesContentMarketing2019
 
 
 # History of Content Marketing
@@ -285,16 +287,16 @@ The mass of disposable data is growing exponentially
 
 <p class="rights">Please include attribution to contentmarketinginstitute.com with this graphic<p>
 
-# Methodic Content Marketing (after G. Grunert)
+# Methodic Content Marketing (after G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Data as foundation
 
-> "Scalable and predictable content marketing is based on the evaluation of large amounts of data collected on your own platforms or delivered by third-party platforms" (G. Grunert)
+> "Scalable and predictable content marketing is based on the evaluation of large amounts of data collected on your own platforms or delivered by third-party platforms" (G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Personalisation
 
 > "As the individual user is at the centre of content marketing, the personalisation of the content is decisive for the success of the measure."
- (G. Grunert)
+ (G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Role of the editorial staff
 
@@ -305,7 +307,7 @@ The mass of disposable data is growing exponentially
 
 > "The marketing department mixes the pizza dough, the editorial department rolls out the pizza dough."
 
-(G. Grunert)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Competences and role of the Content Marketing Manager
 
@@ -314,7 +316,7 @@ The mass of disposable data is growing exponentially
 - Need to enjoy analysis, develop business acumen and yet be creative.
 - Link between the departments, without them the silos cannot be broken open and the project cannot be implemented.
 
-(Adapted from: G. Grunert)
+(Adapted from: G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Phases of the Customer Journey
 
@@ -326,33 +328,33 @@ The mass of disposable data is growing exponentially
 
 - The user notices that he has a problem. The information he seeks at this stage is intended to help him concretize the problem. He becomes aware of his problem.
 
-(Adapted from: G. Grunert)
+(Adapted from: G. Grunert @grunertMethodischesContentMarketing2019)
 
 
 ## Consideration
 
 - The user can give his problem or his accepted solution a concrete name. He is now looking for information that will enable him to solve the problem. He evaluates the problem and the solution offered.
 
-(Adapted from: G. Grunert)
+(Adapted from: G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Decision
 
 - He compares the different information to consolidated solution offers and makes the purchase decision.
 
-(Adapted from: G. Grunert)
+(Adapted from: G. Grunert @grunertMethodischesContentMarketing2019)
 
 
 ## Customer journey and conversion funnel
 
 > "The Customer Journey and the Conversion Funnel are two perspectives on the same thing, the process of winning customers. The concept of the Customer Journey does this by describing current conditions, e.g. where the user is in which phase and how these phases relate to each other. It is a passive, descriptive view in our opinion."
 
-(G. Grunert)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Conversion funnel and future states
 
 > "The conversion funnel model describes future conditions, because we are constantly asking ourselves what we have to do to achieve the desired effect in the future for our future customers. It's a more active, more creative way of looking at things."
 
-(G. Grunert)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Conversion Funnel and Key Performance Indicators
 
@@ -361,34 +363,34 @@ The mass of disposable data is growing exponentially
 - Email Marketing: Opening figures, Click-Through-Rates, Number of subscribers
 - Lead Nurturing: Lead score
 
-(Adapted from: G. Grunert)
+(Adapted from: G. Grunert @grunertMethodischesContentMarketing2019)
 
 ## Data integration
 
 > "Likewise... the corresponding technical platforms provide us with the corresponding data. In order to be able to accompany the user through the conversion tunnel on his customer journey, we have to measure and consolidate this data in one platform in order to be able to track the conversion across all channels.""
 
-(G. Grunert)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 
 ## Role of the editorial staff
 
 > ... that 99% of the information seems to be concerned with the marketing aspects of content marketing. Yet content is the currency with which we pay users for their attention and data. This chapter is therefore dedicated to the trade responsible for the production of this currency, the editorial department.
 
-(G. Grunert)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 
 ## Specifities of content
 
 > "Content is a product whose production can hardly be scaled: At first glance, every reader can see whether an editor has taken the time to reflect on a topic in detail or whether a text has been created automatically on the basis of structured product data, for example.""
 
-(G. Grunert)
+(G. Grunert@grunertMethodischesContentMarketing2019)
 
 
 ##
 
 > "The work of the content marketing editorial team is particularly important in the Top of Funnel. At the beginning of the customer journey, neither advantage communication nor cost-benefit argumentation are in the foreground. In this phase, contexts and theme worlds are developed. The user's question "what all this has to do with him" must be answered."
 
-(G. Grunert)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 
 
@@ -437,6 +439,32 @@ The mass of disposable data is growing exponentially
 
 [Make Your Customer the Hero of Your Story: 'The Fault in Our Stars' Video](https://annhandley.com/make-your-customer-the-hero-of-your-story/ "Make Your Customer the Hero of Your Story: 'The Fault in Our Stars' Video")
 
+# Discussion
+
+##
+
+![](pics/trojan_horse_content.jpg)
+
+##
+
+![](pics/content_marketing_maturity.png)
+
+##
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Content marketing says: &quot;Brainstorm what content your audience wants, then distribute it wherever they are.&quot;<br><br>Content strategy says: &quot;Your audience could care less about your content until they need it. Better talk to them and figure out when, what, and where that is.&quot;</p>&mdash; Kristina Halvorson (@halvorson) <a href="https://twitter.com/halvorson/status/1093215902164766720?ref_src=twsrc%5Etfw">6. Februar 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##
+
+[Thomas Strerath über die Content-Lüge | W&V](https://www.wuv.de/agenturen/thomas_strerath_ueber_die_content_luege "Thomas Strerath über die Content-Lüge | W&V")
+
+["Content-Marketing hat uns der Teifl gebracht"](https://www.derstandard.at/story/2000048289368/content-marketing-hat-uns-der-teifl-gebracht "Unabhängiger Journalismus: "Content-Marketing hat uns der Teifl gebracht" - Kommentare der anderen - derStandard.at › Diskurs")
+
+##
+
+> Content Marketing ist 2018 kein Trendthema mehr gewesen, das was 2016/2017, das ist über den Zenit. Die Arbeit mit Influencerinnen ist normal geworden und kein Hype mehr. Da konnten wir mit einem systematischen Ansatz punkten, der KI mit menschlicher Kreativität und Intelligenz kombiniert. Wir nennen das „Trufluence™“.
+
+[prmagazin: Wolfgang Lünenbürger-Reidenbach](http://www.prmagazin.de/meinung-analyse/hintergrund/wolfgang-luenenbuerger-reidenbach.html "prmagazin: Wolfgang Lünenbürger-Reidenbach")
 
 
 ## Bibliography
