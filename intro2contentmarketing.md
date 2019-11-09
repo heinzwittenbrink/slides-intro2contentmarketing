@@ -462,7 +462,7 @@ The mass of disposable data is growing exponentially
 
 ##
 
-> Content Marketing ist 2018 kein Trendthema mehr gewesen, das was 2016/2017, das ist über den Zenit. Die Arbeit mit Influencerinnen ist normal geworden und kein Hype mehr. Da konnten wir mit einem systematischen Ansatz punkten, der KI mit menschlicher Kreativität und Intelligenz kombiniert. Wir nennen das „Trufluence™“.
+> Content marketing in 2018 has not been a trend topic anymore, that was in 2016/2017, that is about the zenith. The work with influencers has become normal and is no longer hype. We were able to score with a systematic approach that combines AI with human creativity and intelligence. We call this "Trufluence™".
 
 [prmagazin: Wolfgang Lünenbürger-Reidenbach](http://www.prmagazin.de/meinung-analyse/hintergrund/wolfgang-luenenbuerger-reidenbach.html "prmagazin: Wolfgang Lünenbürger-Reidenbach")
 
