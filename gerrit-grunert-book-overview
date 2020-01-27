@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-27T16:35:19.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="nLKPE7a-2HIZ_JkLZmXI" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T16:54:23.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="rtGFGwsZkQQ7XNPLzDQg" version="12.5.8" type="github">
   <diagram id="XQMrVK1RVz-68izrUjCO" name="Page-1">
     <mxGraphModel dx="1422" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,9 +186,9 @@
           </mxCell>
         </UserObject>
         <mxCell id="t5K2rgIje0BMdVFajaDo-17" value="&lt;h1&gt;Elements of Content Marketing&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="30" width="370" height="50" as="geometry"/>
+          <mxGeometry x="163" y="30" width="370" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="t5K2rgIje0BMdVFajaDo-18" value="&lt;h2&gt;A visualization of key concepts of: Gerrit Grunert, Methodisches Contentmarketing&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="t5K2rgIje0BMdVFajaDo-18" value="&lt;h2&gt;A visualization of key concepts of Gerrit Grunert, Methodisches Contentmarketing&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="70" width="720" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="t5K2rgIje0BMdVFajaDo-19" value="&lt;b&gt;Editorially focused&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
@@ -220,6 +220,19 @@
         </UserObject>
         <mxCell id="t5K2rgIje0BMdVFajaDo-26" value="Customer Development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="548" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <UserObject label="&lt;u&gt;SEO and SEA&lt;/u&gt;" tooltip="Search engine advertising, just like its free counterpart, search engine optimization, is in the Top of Funnel." id="t5K2rgIje0BMdVFajaDo-27">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="375" y="865" width="85" height="35" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;u&gt;Native Advertising&lt;/u&gt;" tooltip="With the birth of the Internet and its use by consumers, native advertising became a universal form of advertising that diversified in form and quality within a short time and has almost completely replaced display advertising to this day.&#xa;&#xa;Today, the idea of Native Advertising has developed into a huge industry that can be roughly divided into the areas of publishers, creative service providers, technology companies and service providers who manage campaigns:&#xa;&#xa;Due to its integration in the form of an advertisement in the platforms of third parties, Native Advertising belongs in the Top Of Funnel." id="t5K2rgIje0BMdVFajaDo-28">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="500" y="885" width="90" height="20" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="t5K2rgIje0BMdVFajaDo-29" value="SEO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="880" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
