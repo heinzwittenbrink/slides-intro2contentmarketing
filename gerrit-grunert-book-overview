@@ -1,21 +1,25 @@
-<mxfile host="www.draw.io" modified="2020-01-27T15:55:03.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="UW8XjK9r1VYsnpRdBu4r" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T16:18:29.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="r6HM8KVH8_pAewL0YOh8" version="12.5.8" type="github">
   <diagram id="XQMrVK1RVz-68izrUjCO" name="Page-1">
     <mxGraphModel dx="1422" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="Smm-fJ4TjiPaxET0HikU-2" value="Customer Journey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Smm-fJ4TjiPaxET0HikU-2" value="&lt;h2&gt;Customer Journey&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="235" width="70" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="Smm-fJ4TjiPaxET0HikU-3" value="&lt;div&gt;Conversion Funnel&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Smm-fJ4TjiPaxET0HikU-3" value="&lt;div&gt;&lt;h2&gt;Conversion Funnel&lt;/h2&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="490" width="70" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="DGvBjG2KnV4VR2zkshFl-1" value="&lt;div&gt;Editorial &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="695" width="70" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="DGvBjG2KnV4VR2zkshFl-2" value="Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1160" width="70" height="50" as="geometry"/>
-        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;h2&gt;&lt;u&gt;Editorial &lt;br&gt;&lt;/u&gt;&lt;/h2&gt;&lt;/div&gt;" tooltip="A sales department that has concentrated its previous sales measures on the outbound, i.e. active customer acquisition, is given a new sales opportunity with content marketing: Since content in ROI-oriented content marketing communicates advantages, develops contexts and presents solutions for expressed problems, it adapts classic sales measures, only more diverse, individual, scalable - and indexable by the search engine. This is how he takes care of inbound, i.e. incoming business enquiries" id="DGvBjG2KnV4VR2zkshFl-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+            <mxGeometry x="30" y="695" width="70" height="50" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;h2&gt;&lt;u&gt;Data&lt;/u&gt;&lt;/h2&gt;" tooltip="Scalable and predictable content marketing is based on the evaluation of large amounts of data collected on proprietary platforms or supplied by third-party platforms" id="DGvBjG2KnV4VR2zkshFl-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+            <mxGeometry x="30" y="1160" width="70" height="50" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="DGvBjG2KnV4VR2zkshFl-3" value="&lt;div&gt;Resources&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="1250" width="70" height="50" as="geometry"/>
         </mxCell>
@@ -23,7 +27,7 @@
           <mxGeometry x="30" y="1330" width="70" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="DGvBjG2KnV4VR2zkshFl-5" value="&lt;div&gt;Costs and Benefits&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1430" width="70" height="50" as="geometry"/>
+          <mxGeometry x="20" y="1495" width="70" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="DGvBjG2KnV4VR2zkshFl-6" value="&lt;b&gt;Awareness&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="300" height="160" as="geometry"/>
@@ -58,7 +62,7 @@
         <mxCell id="DGvBjG2KnV4VR2zkshFl-23" value="Sales Lead" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="310" width="100" height="55" as="geometry"/>
         </mxCell>
-        <mxCell id="DGvBjG2KnV4VR2zkshFl-25" value="Distribution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="DGvBjG2KnV4VR2zkshFl-25" value="&lt;h2&gt;Distribution&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="905" width="70" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="M0HfmNeQTQLEJfHReSE7-1" value="&lt;div&gt;Monitoring&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -88,7 +92,7 @@
         <mxCell id="M0HfmNeQTQLEJfHReSE7-9" value="Content Mapping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="695" width="100" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="9HiCa-SAGG04eWKxugLF-1" value="&lt;b&gt;Taregting and attracting potential leads&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="9HiCa-SAGG04eWKxugLF-1" value="&lt;b&gt;Targeting and attracting potential leads&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="310" y="650" width="300" height="160" as="geometry"/>
         </mxCell>
         <UserObject label="&lt;div&gt;Relevance&lt;/div&gt;" tooltip="The work of the content marketing editorial team is particularly important in the Top of Funnel. At the beginning of the Customer Journey, neither an advantage communication nor a cost-benefit argumentation are in the foreground. In this phase, contexts and theme worlds are developed. The user&#39;s question &quot;what would all this have to do with him&quot; must be answered." id="9HiCa-SAGG04eWKxugLF-3">
@@ -156,7 +160,39 @@
           </mxCell>
         </UserObject>
         <mxCell id="t5K2rgIje0BMdVFajaDo-8" value="&lt;div&gt;Campaigns&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1410" width="110" height="20" as="geometry"/>
+          <mxGeometry x="155" y="1510" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <UserObject label="Buyer motivation" tooltip="Bottom of Funnel is dedicated solely to the motivation to buy. All information has been communicated, the user has signalled his willingness to make a purchase decision and we have to provide him with the arguments that trigger the final transaction.&#xa;&#xa;Two parameters play the biggest role: time and money." id="t5K2rgIje0BMdVFajaDo-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="1160" y="670" width="120" height="20" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Sales Qualified Lead" tooltip="With the qualification as a Sales Qualified Lead, the user is on the threshold of the Bottom of Funnel." id="t5K2rgIje0BMdVFajaDo-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="1010" y="490" width="80" height="70" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Customer Retention" tooltip="Within the framework of existing customer retention, social media is used again, that is, after generating the ROI in the bottom on funnel, when the user is transferred to an existing customer funnel." id="t5K2rgIje0BMdVFajaDo-11">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="1410" y="495" width="110" height="50" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="t5K2rgIje0BMdVFajaDo-14" value="&lt;b&gt;ROI Generation&lt;br&gt;&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1450" width="300" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="t5K2rgIje0BMdVFajaDo-15" value="&lt;b&gt;Top of Funnel Data&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1090" width="300" height="160" as="geometry"/>
+        </mxCell>
+        <UserObject label="Combination of metrics" tooltip="Already here it becomes obvious that the metrics influence each other. For example, the increasing number of followers (profile metrics) is the result of our mail (publication metrics), which addresses the appropriate addressee (audience demographics) and provokes a positive reaction from them (engagement metrics)." id="t5K2rgIje0BMdVFajaDo-16">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="375" y="1200" width="105" height="20" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="t5K2rgIje0BMdVFajaDo-17" value="&lt;h1&gt;Elements of Content Marketing&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="30" width="370" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="t5K2rgIje0BMdVFajaDo-18" value="&lt;h2&gt;A visualization of key concepts of: Gerrit Grunert, Methodisches Contentmarketing&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="720" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
