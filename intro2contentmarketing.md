@@ -1,10 +1,91 @@
 ---
 title: \"Make the Customer the Center of Your Story\"
-author: Heinz Wittenbrink (\@heinz)
-date: 2019-11-09
-bibliography: introtocontentmarketing.bib
+author: Heinz Wittenbrink
+date: 2020-10-14
+filters:
+  -citeproc
 csl: apa.csl
 link-citations: true
+references:
+- id: eckContentRevolutionImUnternehmen2014
+  author:
+    - family: Eck
+      given: Klaus
+    - family: Eichmeier
+      given: Doris
+  edition: 1. Auflage
+  event-place: Freiburg München
+  ISBN: 978-3-648-05617-2 978-3-648-05622-6 978-3-648-05627-1
+  issued:
+    - year: 2014
+  language: ger
+  note: 'OCLC: 894924127'
+  number-of-pages: '257'
+  publisher: Haufe-Lexware GmbH & Co. KG
+  publisher-place: Freiburg München
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: >-
+    Die Content-Revolution im Unternehmen: neue Perspektiven durch
+    Content-Marketing und -Strategie
+  title-short: Die Content-Revolution im Unternehmen
+  type: book
+
+- id: grunertMethodischesContentMarketing2019
+  accessed:
+    - year: 2019
+      month: 10
+      day: 30
+  author:
+    - family: Grunert
+      given: Gerrit
+  ISBN: 978-3-658-25657-9
+  issued:
+    - year: 2019
+  language: German
+  note: 'OCLC: 1111829768'
+  source: Open WorldCat
+  title: >-
+    Methodisches Content Marketing: Erfolgreich durch systematisches Vorgehen,
+    integriertes Arbeiten und klare ROI-Orientierung
+  title-short: Methodisches Content Marketing
+  type: book
+  URL: 'https://doi.org/10.1007/978-3-658-25657-9'
+
+- id: loefflerThinkContentStandardwerk2019
+  author:
+    - family: Löffler
+      given: Miriam
+    - family: Michl
+      given: Irene
+    - literal: Galileo Press
+  edition: '2'
+  event-place: Bonn
+  ISBN: 978-3-8362-4152-6
+  issued:
+    - year: 2019
+  language: German
+  note: 'OCLC: 1114513720'
+  publisher: Rheinwerk Verlag GmbH
+  publisher-place: Bonn
+  source: Open WorldCat
+  title: 'Think Content! Das Standardwerk zum Content-Marketing, rundum aktualisiert!'
+  type: book
+
+- id: pulizziEpicContentMarketing2013
+  author:
+    - family: Pulizzi
+      given: J.
+  ISBN: 978-0-07-181991-6
+  issued:
+    - year: 2013
+  publisher: McGraw-Hill Education
+  title: >-
+    Epic Content Marketing: How to Tell a Different Story, Break through the
+    Clutter, and Win More Customers by Marketing Less: How to Tell a Different
+    Story, Break through the Clutter, and Win More Customers by Marketing Less
+  type: book
+  URL: 'http://books.google.ie/books?id=8dprAAAAQBAJ'
+
 ---
 
 # Intro
@@ -21,31 +102,6 @@ link-citations: true
 - Reflection of the role of content marketers
 - Content marketing and content strategy
 - Content marketing and sustainability
-
-## Follow-ups
-
-- 2nd presence week
-- Berlin excursion
-- Feasability study and master thesis
-
-## Groups to be formed
-
-- C3 (and comparable agencies)
-- Crispy Content / Methodic content marketing
-- Facebook: Content marketing, advertising and the public discourse
-- Mozilla: Content marketing for non profits
-- Digitale Gesellschaft/re:publica: Content marketing and privacy issues
-
-
-## Agenda
-
-- 9:00-9:30 Intro
-- 9:30-10:30 Presentation
-- 10:45-11:45 1. Group session: Best practices, questions
-- 11:45-12:30 Group presentations, Sources of information
-- 13:30-14:30 Content marketing and content strategy
-- 14:30-15.30 2. group session: Preparation of next steps, plenary session
-- 15:45-17:00 Content marketing und planetary boundaries
 
 
 # "Every Company is a Media Company": Why brands become publishers
@@ -82,6 +138,8 @@ link-citations: true
 ##
 
 > "Content marketing was well known to me in any case before content strategy - that is probably because I come from the PR industry and throughout the last years content marketing has successfully disputed more and more PR territories." (Quote COS17)
+
+## What is *your* idea of content marketing?
 
 # New media - new audiences
 
@@ -193,7 +251,7 @@ Bernd W. Wirtz [CC BY 2.0 de](https://creativecommons.org/licenses/by/2.0/de/dee
 
 > The era of one-way, single-threaded, brand-directed mass communications is officially over. ... The only way to reach your audience in today’s information-drenched, content-saturated world is through Epic Content Marketing... "
 
-Joe Pulizzi (@pulizzi2013a, loc. 96-104)
+Joe Pulizzi [@pulizziEpicContentMarketing2013, loc. 96-104]
 
 
 
@@ -201,12 +259,12 @@ Joe Pulizzi (@pulizzi2013a, loc. 96-104)
 
 > Content marketing is owning media as opposed to renting it  
 
-Joe Pulizzi (@pulizzi2013a, loc. 244)
+Joe Pulizzi [@pulizziEpicContentMarketing2013, loc. 244]
 
 
 # Changing relations between brands and customers
 
-##
+## Brands as problem solvers
 
 
 [Why Problem Solving Should Be The Only Value Proposition You Use](https://neilpatel.com/blog/problem-solving-value-proposition/ "Why Problem Solving Should Be The Only Value Proposition You Use")
@@ -214,13 +272,13 @@ Joe Pulizzi (@pulizzi2013a, loc. 244)
 Customers regard brands as networked problem solvers
 
 
-##
+## Connection in realtime
 
 ![](pics/indian-railway-train-status-app-review-750x500.jpg)
 
 Customers and brands are connected 24/7 in realtime
 
-##
+## Data based marketing
 
 ![](pics/The-growth-of-humanand-machine-geneerated-data-900x679.png)
 
@@ -229,26 +287,26 @@ The mass of disposable data is growing exponentially
 
 # Owned media as alternative to paid media
 
-##
+## Definition
 
 > "Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience — and, ultimately, to drive profitable customer action."
 
 <http://contentmarketinginstitute.com/what-is-content-marketing/>
 
-##
+---
 
 - Content-Marketing is about content published by brands which
 
 1. satisfies an interest for content which does not end with the purchase of a product,
 2. supports sales.
 
-##
+---
 
 - Content Marketing is a task for content strategists.
 - It is closely related to other purposes of content (e.g PR, Service).
 
 
-## {data-background="https://www.flickr.com/photos/toprankblog/7942982406"  data-background-size="contain"}
+## The CM Boom {data-background="https://www.flickr.com/photos/toprankblog/7942982406"  data-background-size="contain"}
 
 ![](https://farm9.staticflickr.com/8315/7942982406_99abbd95b7_c.jpg "Joe Pulizzi - Content Marketing World")
 
@@ -257,7 +315,7 @@ The mass of disposable data is growing exponentially
 
 ## {data-background="https://media.buch.de/img-adb/34962343-00-00.jpg"  data-background-size="contain"}
 
-@pulizzi2013a
+[@pulizziEpicContentMarketing2013]
 
 <!--
 
@@ -267,11 +325,11 @@ The mass of disposable data is growing exponentially
 
 ##
 
-![Think Content! Das Standardwerk von Miriam Löffler und Irene Michl](pics/think_content_2.jpg "Think Content! Das Standardwerk von Miriam Löffler und Irene Michl | Rheinwerk"){width=60%} @loefflerThinkContentStandardwerk2019
+![Think Content! Das Standardwerk von Miriam Löffler und Irene Michl](pics/think_content_2.jpg "Think Content! Das Standardwerk von Miriam Löffler und Irene Michl | Rheinwerk"){width=60%} [@loefflerThinkContentStandardwerk2019]
 
 ##
 
-![Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia](https://media.buch.de/img-adb/40367859-00-00.jpg "Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia") @eckContentRevolutionImUnternehmen2014
+![Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia](https://media.buch.de/img-adb/40367859-00-00.jpg "Die Content-Revolution im Unternehmen von Doris Eichmeier - eBook | Thalia") [@eckContentRevolutionImUnternehmen2014]
 
 ##
 
@@ -296,7 +354,7 @@ The mass of disposable data is growing exponentially
 ## Personalisation
 
 > "As the individual user is at the centre of content marketing, the personalisation of the content is decisive for the success of the measure."
- (G. Grunert @grunertMethodischesContentMarketing2019)
+ (@grunertMethodischesContentMarketing2019)
 
 ## Role of the editorial staff
 
@@ -383,7 +441,7 @@ The mass of disposable data is growing exponentially
 
 > "Content is a product whose production can hardly be scaled: At first glance, every reader can see whether an editor has taken the time to reflect on a topic in detail or whether a text has been created automatically on the basis of structured product data, for example.""
 
-(G. Grunert@grunertMethodischesContentMarketing2019)
+(G. Grunert @grunertMethodischesContentMarketing2019)
 
 
 ##
@@ -399,15 +457,43 @@ The mass of disposable data is growing exponentially
 
 ##
 
-[CONTENT MARKETING MARKETING B2C 2018 Benchmarks, Budgets, and Trends—North America](https://contentmarketinginstitute.com/wp-content/uploads/2017/12/2018_B2C_Research_Final.pdf)
+[2020 B2C Content Marketing Benchmarks, Budgets, and Trends report](https://www.marketingprofs.com/charts/2019/42214/2020-b2c-content-marketing-benchmarks-budgets-and-trends-a-first-look-at-new-research "2020 B2C Content Marketing Benchmarks, Budgets, and Trends report")
 
 
 
 
 ##
 
-[2018 B2B Content Marketing Report: CMI & MarketingProfs](https://www.toprankblog.com/2017/10/2018-b2b-content-marketing/)
+[B2B Content Marketing in 2020](https://contentmarketinginstitute.com/2019/10/success-differentiators-b2b-research/ "B2B Content Marketing in 2020")
 
+
+---
+
+
+- [Content Marketing Monitor Deutschland® 2018](https://www.marketingverband.de/presse/pressemitteilungen/artikel/content-marketing-monitor-deutschlandr-2018/ "Pressemitteilungen - Deutscher Marketing Verband e.V.")
+- [Die CMF-Basisstudie 2020](https://content-marketing-forum.com/wp-content/uploads/2020/05/CMF_Basisstudie_2020_Presse.pdf)
+
+
+
+## Agenturen
+
+[CP Monitor-Ranking](https://www.cpmonitor.de/ranking/index.php?rubric=Ranking "CP Monitor-Ranking")
+
+## Organisations
+
+- [Content Marketing Forum e.V. - Unternehmensverband der führenden medialen Dienstleister](https://content-marketing-forum.com/ "Content Marketing Forum e.V. - Unternehmensverband der führenden medialen Dienstleister")
+- [Fokusgruppe Content-Marketing im Bundesverband Digitale Wirtschaft](https://www.bvdw.org/der-bvdw/gremien/content-marketing/news/ "News: Bundesverband Digitale Wirtschaft (BVDW) e.V.")
+
+## Magazine
+
+[CP Monitor](https://www.cpmonitor.de/home/index.php "HOME")
+
+## Awards
+
+[BCM – Best of Content Marketing](https://www.best-of-content-marketing.com/ "BCM – Best of Content Marketing")
+
+
+## Discussion: Which agencies and organisations do you know?
 
 
 # Theses
